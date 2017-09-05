@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "E:\\android_projects\\Material_design_with_tabs\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-si\\values-si.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 197,
+                    "endOffset": 298
+                },
+                "from": {
+                    "file": "C:\\Android\\.android\\build-cache\\cbc91e21eea7185ce2c4a3c69edfd5becf152e78\\output\\res\\values-si\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 197,
+                        "endOffset": 482
+                    }
+                }
+            }
+        ]
+    }
+]

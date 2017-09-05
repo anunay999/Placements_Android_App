@@ -1,0 +1,4 @@
+#Sun Apr 16 23:56:59 IST 2017
+base.0=E\:\\android_projects\\Material_design_with_tabs\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3
+renamed.0=classes.dex
+file.0=E\:\\android_projects\\Material_design_with_tabs\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3\\classes.dex

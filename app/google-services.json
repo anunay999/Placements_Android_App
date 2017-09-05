@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "194782716645",
+    "firebase_url": "https://materialdesignwithtabs.firebaseio.com",
+    "project_id": "materialdesignwithtabs",
+    "storage_bucket": "materialdesignwithtabs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194782716645:android:7046205ba00b753f",
+        "android_client_info": {
+          "package_name": "com.example.dell.material_design_with_tabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194782716645-t1ur4kfqs9n1j3fakr53h5bmnod29bqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.material_design_with_tabs",
+            "certificate_hash": "7203f7c053d065bcab74adc02d9cf8a2172e9722"
+          }
+        },
+        {
+          "client_id": "194782716645-5u0ggcl9bnfhd728mobt4rfasq56q6b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIlh3yUR4B940G-jSysILPdZ_zxwQC3YM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194782716645-5u0ggcl9bnfhd728mobt4rfasq56q6b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

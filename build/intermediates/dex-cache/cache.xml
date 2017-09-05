@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\android_projects\Material_design_with_tabs\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\android_projects\Material_design_with_tabs\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_33a87c15156e03de91cf3180fe9d67d661673d4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android_projects\Material_design_with_tabs\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ecfcfbf1018f2d75cd740a8b6aad7286017fad1">
+        <dex dex="E:\android_projects\Material_design_with_tabs\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e5499504944a6af10f88d9d5b7a234cf7a0d2abf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.2.4\7abd1ecef320da6a7679b137083151401fe8bf43\MPAndroidChart-v2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7abd1ecef320da6a7679b137083151401fe8bf43">
+        <dex dex="E:\android_projects\Material_design_with_tabs\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v2.2.4_7a759ca91f2a8a933d455f43a7e081d59606811c\classes.dex" />
+    </item>
+
+</items>
